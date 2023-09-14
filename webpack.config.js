@@ -7,6 +7,7 @@ module.exports = {
         home:'./src/home.js',
         projects: './src/projects.js'
     },
+    devtool: 'inline-source-map',
     module: {
         rules: [
             {
